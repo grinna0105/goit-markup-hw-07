@@ -1,0 +1,25 @@
+
+// Utils 
+@import "./utils/vars";
+@import "./utils/common";
+@import "./utils/mixins";
+@import "./utils/buttons";
+
+
+// Sections
+@import "./sections/header";
+
+@import "./sections/hero";
+@import "./sections/advantages";
+@import "./sections/about";
+@import "./sections/team";
+@import "./sections/customers";
+@import "./sections/portfolio-filter";
+@import "./sections/portfolio-examples";
+
+@import "./sections/footer";
+
+
+// Components
+@import "./components/modal";
+
